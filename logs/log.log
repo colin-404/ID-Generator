@@ -1,0 +1,11 @@
+{"level":"info","timestamp":1746437088551744749,"source":"ID-Generator/main.go:33","msg":"main start"}
+{"level":"info","timestamp":1746437088551918838,"source":"ID-Generator/main.go:39","msg":"ServerStart"}
+{"level":"info","timestamp":1746437088551987745,"source":"ID-Generator/main.go:44","msg":"Listening and serving on 6062"}
+{"level":"info","timestamp":1746437163233550051,"source":"ID-Generator/main.go:37","msg":"ServerStart"}
+{"level":"info","timestamp":1746437163233769113,"source":"ID-Generator/main.go:42","msg":"Listening and serving on 6069"}
+{"level":"info","timestamp":1746437398201689900,"source":"ID-Generator/main.go:37","msg":"ServerStart"}
+{"level":"info","timestamp":1746437398201814003,"source":"ID-Generator/main.go:42","msg":"Listening and serving on 6069"}
+{"level":"info","timestamp":1746437525927910030,"source":"ID-Generator/main.go:37","msg":"ServerStart"}
+{"level":"info","timestamp":1746437525928118293,"source":"ID-Generator/main.go:42","msg":"Listening and serving on 6069"}
+{"level":"info","timestamp":1746437756199581499,"source":"ID-Generator/main.go:37","msg":"ServerStart"}
+{"level":"info","timestamp":1746437756199914274,"source":"ID-Generator/main.go:42","msg":"Listening and serving on 6069"}
